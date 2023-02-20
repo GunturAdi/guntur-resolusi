@@ -5,3 +5,5 @@ Resolusi Guntur di tahun 2023
 -memiliki banyak portfolio
 
 -bekerja di perusahaan besar
+
+-menjadi expert di bidang web developer
